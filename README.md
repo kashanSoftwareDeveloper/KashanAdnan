@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kashanadnan.netlify.app](https://kashanadnan.netlify.app)
 
-- 💬 Ask me about **react , nodejs , html ,css , js, firebase**
+- 💬 Ask me about **react, nodejs, HTML, css, js, firebase**
 
 - 📫 How to reach me **khanzaidaboy@gmail.com**
 
