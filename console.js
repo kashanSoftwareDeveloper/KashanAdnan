@@ -6,3 +6,7 @@ const main = () =>{
 
   console.log("Kashan Adnan")
 }
+
+
+main()
+console.log(main)
